@@ -1,0 +1,5 @@
+{
+    "require": {
+        "voku/html-compress-twig": "^3.0"
+    }
+}
